@@ -67,6 +67,6 @@ stopCluster(cl)
 plot(VR,VP,xlab="correlation (Gaussian copula, n=1000)",ylab="p-value")
 ```
 
-![](pdq_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](pqd_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 ![](pqd_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
